@@ -1,6 +1,6 @@
 ;; ibuffer by default
 
-(global-set-key (kbd "C-x C-b") 'ibuffer)
+(global-set-key (kbd "C-x C-z") 'ibuffer)
 ;; Ido mode with fuzzy matching
 (require 'ido)
 (ido-mode t)
